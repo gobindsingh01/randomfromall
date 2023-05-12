@@ -12,6 +12,7 @@ function addtolist() {
   ).innerHTML += `<li class='listitem'>${a}</li>`;
   items[items.length] = a;
   document.getElementById("noofitems").innerText = `${items.length} items`;
+  document.getElementById('listadd').focus()
 }
 function findrandom() {
   let b = Math.floor(Math.random() * items.length + 1);
