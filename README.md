@@ -1,0 +1,1 @@
+This project is intended to help you choose something when you think everything is equally important and give you a point to start and you can get 1 thing instead of all to focus on.
